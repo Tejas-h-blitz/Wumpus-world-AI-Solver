@@ -6,7 +6,7 @@ This project implements a fully autonomous agent that uses a **Knowledge Base (K
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features:
 
 *   **Integrated Simulation**: A single Python file that bundles the AI logic, game engine, and a Flask-based web dashboard.
 *   **Logical Deduction Engine**: The agent processes "percepts" (Breeze, Stench, Glitter) to dynamically update its Knowledge Base, marking cells as `SAFE`, `PIT?`, or `WUMPUS?`.
@@ -20,7 +20,7 @@ This project implements a fully autonomous agent that uses a **Knowledge Base (K
 
 ---
 
-## 🛠️ Tech Stack & Logic
+## 🛠️ Tech Stack & Logic:
 
 ### Core Technology
 *   **Language**: Python 3.x
@@ -37,7 +37,7 @@ This project implements a fully autonomous agent that uses a **Knowledge Base (K
 
 ---
 
-## 📦 Getting Started
+## 📦 Getting Started:
 
 ### Prerequisites
 Ensure you have Python installed. You only need the `flask` library:
