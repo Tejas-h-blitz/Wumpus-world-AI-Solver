@@ -3,7 +3,7 @@
 A self-contained, interactive simulation of the **Wumpus World**—a classic artificial intelligence benchmark for testing logical reasoning, navigation, and decision-making under uncertainty.
 
 This project implements a fully autonomous agent that uses a **Knowledge Base (KB)** and **Breadth-First Search (BFS)** to explore a $4 \times 4$ grid, locate gold, and return safely while avoiding deadly pits and the "Wumpus."
-
+ 
 ---
  
 ## 🚀 Key Features
